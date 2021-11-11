@@ -102,7 +102,7 @@ body {
 }
 
 .main-img {
-    width: 996px;
+    width: auto;
     max-height: 240px;
 }
 
